@@ -35,25 +35,25 @@ Sollten Items aus zukünftigen Zeitaltern droppen halte ich diese Fest nutze Sie
 * Tools only Wood
 
 * Building a Small Wooden/Cobble House
-    * [+ ] Build a House!
-    * [+ ] Build a Bed!
-    * [+ ] Bookshelfs
+    [ ] Build a House!
+    * [ ] Build a Bed!
+    * [ ] Bookshelfs
     * [ ] Armorstand
     * [ ] Toolracks
-    * [+ ] Crafting Table
-    * [+ ] Chests
+    * [ ] Crafting Table
+    * [ ] Chests
     * [ ] craft Rustic Table and chair
-    * [+ ] craft Rustic Cabinet
-    * [+ ] craft a furnace
+    * [ ] craft Rustic Cabinet
+    * [ ] craft a furnace
     * [ ] craft a IronBackpack (leather!)
     * [ ] craft Forestry Backpacks
-    * [+ ] craft wooden shears
-    * [+ ] craft wodden AIOT
+    * [ ] craft wooden shears
+    * [ ] craft wodden AIOT
     * [ ] craft a complete Leather Armor Set
 * Build a Farm at house
-    * [+ ] When wooden Hoe is possible with Worms
-    * [+ ] Or use Rustic fertile soil
-    * [+ ] Craft Rustic pots for storing seeds
+    * [ ] When wooden Hoe is possible with Worms
+    * [ ] Or use Rustic fertile soil
+    * [ ] Craft Rustic pots for storing seeds
     * [ ] Bees Pam or Rustic
     * [ ] Build a Pergola for the Farming Area (Optional)
     * [ ] Make terraqueous pots with Plants
