@@ -35,7 +35,7 @@ Sollten Items aus zukünftigen Zeitaltern droppen halte ich diese Fest nutze Sie
 * Tools only Wood
 
 * Building a Small Wooden/Cobble House
-    [ ] Build a House!
+    * [ ] Build a House!
     * [ ] Build a Bed!
     * [ ] Bookshelfs
     * [ ] Armorstand
